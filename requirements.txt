@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+torchvision
+# For GPU, uninstall faiss-cpu and install faiss-gpu
+faiss-cpu
+numpy
+Pillow
+aiofiles
+tqdm

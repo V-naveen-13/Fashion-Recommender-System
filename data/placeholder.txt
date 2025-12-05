@@ -1,0 +1,2 @@
+Please place your image dataset files (e.g., .jpg, .png) in this directory.
+This file can be deleted.

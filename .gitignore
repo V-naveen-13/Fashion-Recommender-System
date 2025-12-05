@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Data and Embeddings
+# These are generated and can be large. Add them if you don't want to track them.
+# data/
+# embeddings/
+
+# IDE / Editor specific
+.vscode/
+.idea/
